@@ -11,7 +11,7 @@ public class SringbootprofilesApplication {
 		System.out.println("hello cjc");
 		
 		System.out.println("hi");
-		SpringApplication.run(SringbootprofilesApplication.class, args);    
+		SpringApplication.run(SringbootprofilesApplication.class, args);  
 	}
 
 }
